@@ -2,6 +2,8 @@
 
 <h1>👋 Hi, I'm Sajid Ali</h1>
 
+<h2>🚀 WordPress Developer | Full Stack Engineer | LMS & Booking System Specialist</h2>
+
 <h3>Connect with me:</h3>  
 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/yourusername)
