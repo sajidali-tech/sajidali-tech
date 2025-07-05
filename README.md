@@ -51,3 +51,6 @@ I'm a **WordPress Developer & Full Stack Web Expert** with a strong focus on bui
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+
+<p align="center"><i>Thanks for visiting my profile! Let's build something great together.</i></p>
