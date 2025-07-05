@@ -1,6 +1,6 @@
 
 
-<div style="font-size: 36px; font-weight: bold; margin-bottom: 0;">👋 Hi, I'm Sajid Ali</div>
+## 👋 Hi, I'm Sajid Ali
 
 <h3>Connect with me:</h3>  
 
