@@ -1,7 +1,9 @@
 
 
 <div align="center">
-  <h1 class="heading-element" style="border-bottom: none;">👋 Hi, I'm Sajid Ali</h1>
+  <h1 style="margin-bottom: 0; font-size: 32px; font-weight: bold; border-bottom: none;">
+    👋 Hi, I'm Sajid Ali
+  </h1>
 </div>
 
 <h3>Connect with me:</h3>  
