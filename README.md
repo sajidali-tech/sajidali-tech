@@ -1,8 +1,6 @@
 
 
-<div align="left">
-  <h1 style="border: none; text-align: left;">👋 Hi, I'm Sajid Ali</h1>
-</div>
+<div style="font-size: 36px; font-weight: bold; margin-bottom: 0;">👋 Hi, I'm Sajid Ali</div>
 
 <h3>Connect with me:</h3>  
 
