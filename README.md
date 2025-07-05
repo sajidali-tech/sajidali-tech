@@ -1,6 +1,6 @@
 
 
-## 👋 Hi, I'm Sajid Ali
+<h2 align="center"><strong>👋 Hi, I'm Sajid Ali</strong></h2>
 
 <h3>Connect with me:</h3>  
 
