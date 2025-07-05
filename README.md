@@ -1,6 +1,8 @@
 
 
-<p><strong style="font-size: 32px !important;">👋 Hi, I'm Sajid Ali</strong></p>
+<div align="center">
+  <h1 class="heading-element" style="border-bottom: none;">👋 Hi, I'm Sajid Ali</h1>
+</div>
 
 <h3>Connect with me:</h3>  
 
